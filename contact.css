@@ -32,6 +32,8 @@ body{
     background-image: url("img/122.jpg");
     background-repeat:repeat;
     background-position:center;
+    margin: 0px;
+
 }
 #vbb{
     text-align: center;
